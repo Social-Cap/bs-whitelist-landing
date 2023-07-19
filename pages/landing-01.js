@@ -17,7 +17,7 @@ export default function NerkoTemplate() {
     
         <Layout>
 			 <Head>
-                <title>Landing 01 || Nerko Next JS Template</title>
+                <title>Blue Scorpion Project</title>
             </Head>			
 			<HeroBannerOne/>
 			<BrandOne/>
