@@ -39,6 +39,8 @@ const Footer2 = ({footerSetting = {}}) => {
                                 {/* <li><Link href="/blog">Blog</Link></li> */}
                                 <li><Link href="/privacy">Privacy</Link></li>
                                 <li><Link href="/terms">Terms of use</Link></li>
+                                <li><Link href="/disclaimer">Disclaimer</Link></li>
+                                <li><Link href="/transparency">Transparency</Link></li>
                                 <li><Link href="/sign-in">Sign In</Link></li>
                                 <li><Link href="/sign-up">Sign Up</Link></li>
                             </ul>

@@ -12,6 +12,9 @@ import HomeThreeMinting from '../components/minting/HomeThreeMinting';
 import Newsletter from '../components/newsletter/Newsletter';
 import Footer2 from '../components/layouts/Footer2';
 import BrandTwo from '../components/brand/BrandTwo';
+import HomeOneAbout from '../components/about/HomeOneAbout';
+import HomeOneCollection from '../components/collection/HomeOneCollection';
+
 export default function NerkoTemplate() {
   return (    
         <div class="wrap uk-overflow-hidden">
@@ -24,6 +27,8 @@ export default function NerkoTemplate() {
 			<HomeThreeMinting/>
 			<Divider/>   				
 			<HomeThreeAbout/>
+			<Divider/>
+			<HomeOneAbout/>
 			<Divider/> 
 			<Newsletter/>
 			<Divider/> 
