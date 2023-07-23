@@ -1,4 +1,4 @@
-const HomeTwoNumber = () => {
+const ScienceCertificates = () => {
     return(
         <div id="uni_numbers" className="uni-numbers uk-section uk-section-large@m">
                 <div className="uk-container">
@@ -49,4 +49,4 @@ const HomeTwoNumber = () => {
             </div>
     )
 }
-export default HomeTwoNumber
+export default ScienceCertificates

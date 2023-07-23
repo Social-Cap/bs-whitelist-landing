@@ -31,9 +31,9 @@ const Header3 = ({headerSetting = {}}) => {
                             <div className="uk-navbar-top">
                                 <div className="uk-navbar-left uk-flex-1@m">
                                     <ul className="uk-navbar-nav uk-text-uppercase dark:uk-text-gray-10 uk-visible@m" data-uk-scrollspy-nav="closest: li; scroll: true; offset: 40" data-uk-navbar-bound>
-                                        <li><a href="#uni_minting">How to mint</a></li>
-                                        <li><a href="#uni_about">About</a></li>
                                         <li><a href="#uni_venom">Venom</a></li>
+                                        <li><a href="#uni_about">About</a></li>
+                                        <li><a href="science"><span className="uk-text-gradient">Science</span></a></li>
                                         <li><a href="#uni_roadmap">Roadmap</a></li>
                                     </ul>
                                 </div>
