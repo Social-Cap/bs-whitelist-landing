@@ -32,13 +32,13 @@ const HeroBannerThree = () => {
                                         <div className="uk-grid uk-grid-small uk-grid-medium@m uk-flex-center uk-flex-between@m uk-child-width-1-3 uk-margin-medium-top uk-margin-large-top@m" data-uk-grid="">
                                             <div>
                                                 <div className="uk-panel">
-                                                    <h4 className="uk-h3 uk-h2@m uk-margin-2xsmall uk-font-display">100</h4>
+                                                    <h4 className="uk-h3 uk-h2@m uk-margin-2xsmall uk-font-display">500</h4>
                                                     <span className="uk-text-small uk-text-muted">Founder's Passes</span>
                                                 </div>
                                             </div>
                                             <div>
                                                 <div className="uk-panel">
-                                                    <h4 className="uk-h3 uk-h2@m uk-margin-2xsmall uk-font-display">0.55</h4>
+                                                    <h4 className="uk-h3 uk-h2@m uk-margin-2xsmall uk-font-display">1</h4>
                                                     <span className="uk-text-small uk-text-muted">Floor price (eth)</span>
                                                 </div>
                                             </div>
