@@ -1,5 +1,5 @@
 import Link from "next/link"
-import Dvider from "../Divider"
+import Divider from "../Divider"
 import BannerThreeSlider from "../banners/BannerThreeSlider"
 
 const HeroBannerThree = () => {
@@ -25,10 +25,10 @@ const HeroBannerThree = () => {
                                             Hero <br />
                                            Container Copy 
                                         </h2>
-                                        <Link href="#" className="uk-button uk-button-medium uk-button-large@m uk-button-gradient">
+                                        <Link href="/whitelist" className="uk-button uk-button-medium uk-button-large@m uk-button-gradient">
                                             <span>Whitelist now</span>
                                         </Link>
-                                        <Dvider/>
+                                        <Divider/>
                                         <div className="uk-grid uk-grid-small uk-grid-medium@m uk-flex-center uk-flex-between@m uk-child-width-1-3 uk-margin-medium-top uk-margin-large-top@m" data-uk-grid="">
                                             <div>
                                                 <div className="uk-panel">

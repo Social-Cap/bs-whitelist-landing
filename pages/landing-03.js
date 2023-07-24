@@ -38,8 +38,6 @@ export default function NerkoTemplate() {
 			<Divider/>  */}
 			<HomeThreeRoadMap/>
 			<Divider/> 
-			<BrandTwo/>
-			<Divider/> 
 			<FaqTwo/>
 			<Divider />
 			<HomeThreeCta/>

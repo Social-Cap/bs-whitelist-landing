@@ -25,7 +25,7 @@ const HomeTwoAbout = () =>{
                                                 <span className="uk-text-overline uk-text-gradient">Mint and Save</span>
                                                 <h3 className="uk-h3 uk-h1@m uk-font-display uk-text-uppercase">Mint your <span className="uk-text-gradient">own Memership</span></h3>
                                                 <p className="uk-text-large@m">Unlock exclusive benefits and become part of a privileged community with our limited edition Founder's Passes, just for you.</p>
-                                                <Link href="#join_discrod" className="uk-button uk-button-medium uk-button-large@m uk-button-primary uk-button-outline uk-margin-small-top uk-margin-medium-top@m">
+                                                <Link href="/mint" className="uk-button uk-button-medium uk-button-large@m uk-button-primary uk-button-outline uk-margin-small-top uk-margin-medium-top@m">
                                                     <span>Mint now</span>
                                                     <i className="uk-icon uk-text-bold unicon-arrow-right"></i>
                                                 </Link>

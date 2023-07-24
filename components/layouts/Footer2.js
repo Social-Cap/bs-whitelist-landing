@@ -41,8 +41,9 @@ const Footer2 = ({footerSetting = {}}) => {
                                 <li><Link href="/terms">Terms of use</Link></li>
                                 <li><Link href="/disclaimer">Disclaimer</Link></li>
                                 <li><Link href="/transparency">Transparency</Link></li>
+                                <li><Link href="/whitelist">Whitelist</Link></li>
                                 <li><Link href="/sign-in">Sign In</Link></li>
-                                <li><Link href="/sign-up">Sign Up</Link></li>
+                                
                             </ul>
                         </div>
                         <div>

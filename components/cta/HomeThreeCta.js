@@ -12,7 +12,7 @@ const HomeThreeCta = () => {
                             <img className="uk-position-bottom-left" width="48" src="images/objects/bitcoin-01.png" alt="Object" style={{bottom: "16%", left: "-8%"}} />
                             <h2 class="uk-h2 uk-heading-d2@m uk-font-display uk-text-uppercase">We make <br/> <span class="uk-text-gradient">Web3</span> <br/> Easy</h2>
                             <p class="uk-text-xlarge@m">Manage all your Founder's Passes in one place.</p>
-                            <Link href="#" className="uk-button uk-button-small uk-button-large@m uk-button-gradient uk-margin-small-top uk-margin-large-top@m">Whitelist Now</Link>
+                            <Link href="/whitelist" className="uk-button uk-button-small uk-button-large@m uk-button-gradient uk-margin-small-top uk-margin-large-top@m">Whitelist Now</Link>
                         </div>
                     </div>
                 </div>
