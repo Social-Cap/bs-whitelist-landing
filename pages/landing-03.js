@@ -14,6 +14,7 @@ import Footer2 from '../components/layouts/Footer2';
 import BrandTwo from '../components/brand/BrandTwo';
 import HomeOneAbout from '../components/about/HomeOneAbout';
 import HomeOneCollection from '../components/collection/HomeOneCollection';
+import AboutOne from '../components/about/AboutOne';
 
 export default function NerkoTemplate() {
   return (    
@@ -25,8 +26,8 @@ export default function NerkoTemplate() {
 			<HeroBannerThree/>	
 			<Divider/> 						
 			<HomeThreeMinting/>
-			<Divider/>   				
-			<HomeThreeAbout/>
+			<Divider/>   	
+			<AboutOne/>
 			<Divider/>
 			<HomeOneAbout/>
 			<Divider/> 

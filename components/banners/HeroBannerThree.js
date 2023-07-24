@@ -22,8 +22,8 @@ const HeroBannerThree = () => {
                                         <img className="uk-position-left" width="16" src="images/objects/circle-01.png" alt="object" style={{top: "16%", left: "-4%"}} data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 420;" />
                                         <img className="uk-position-bottom-left" width="24" src="images/objects/circle-03.png" alt="object" style={{bottom: "-16%", left: "16%"}} data-anime="opacity:[0, 1]; scale:[0, 1]; onview: true; delay: 440;" />
                                         <h2 className="uk-h2 uk-heading-d2@m uk-font-display uk-text-uppercase uk-margin-remove-top uk-margin-large-bottom@m">
-                                            Hero <br />
-                                           Container Copy 
+                                        A Digital Asset<br />
+                                        that heals 
                                         </h2>
                                         <Link href="/whitelist" className="uk-button uk-button-medium uk-button-large@m uk-button-gradient">
                                             <span>Whitelist now</span>
